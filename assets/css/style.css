@@ -44,3 +44,12 @@ main {
 main h1 {
     text-align: center;
 }
+
+main h2 {
+    text-align: justify;
+}
+main img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
